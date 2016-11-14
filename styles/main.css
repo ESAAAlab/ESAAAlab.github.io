@@ -1,0 +1,23 @@
+body {
+  font-family: Univers,helvetica,arial,sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #000;
+  vertical-align: top;
+  -webkit-font-smoothing: antialiased;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale; }
+
+#content {
+  display: block;
+  width: 525px;
+  padding-top: 50px;
+  padding-left: 250px; }
+
+p {
+  margin-before: 1em;
+  margin-after: 1em; }
+
+/*# sourceMappingURL=main.css.map */
